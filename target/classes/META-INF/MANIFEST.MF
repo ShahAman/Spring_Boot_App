@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Cric Info App
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Aman's PC
+Implementation-Vendor-Id: io.cricinfo
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cric-info
+Created-By: Maven Integration for Eclipse
+
